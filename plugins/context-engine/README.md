@@ -2,9 +2,10 @@
 
 Connect Claude Code to the Elastic **Context Engine** (Project Meridian).
 
-> **Status: skeleton (technical preview).** Scaffolded for
-> [search-team#15425](https://github.com/elastic/search-team/issues/15425). The import flow is
-> outlined but not yet fully implemented — see the `TODO` markers in the skill.
+> **Status: technical preview.** Scaffolded for
+> [search-team#15425](https://github.com/elastic/search-team/issues/15425). The trace-import
+> flow is documented (manual setup via the Claude Code integration); there is no automation
+> script yet, and the ES|QL `ai_index` skill is planned.
 
 ## What it does
 
