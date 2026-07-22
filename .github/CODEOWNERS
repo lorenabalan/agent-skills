@@ -1,1 +1,4 @@
 * @MattDevy @Anaethelion @nayrttam @ghudgins
+
+/plugins/context-engine/ @elastic/context-engine
+/skills/context-engine/ @elastic/context-engine

@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0",
+  "name": "elastic-context-engine",
+  "description": "Context Engine — connect Claude Code to the Elastic Context Engine. Imports Claude Code agentic traces into Elasticsearch (ES|QL querying of the ai_index is planned).",
+  "author": {
+    "name": "Elastic"
+  },
+  "repository": "https://github.com/elastic/agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "context-engine",
+    "claude-code",
+    "traces",
+    "opentelemetry",
+    "elastic"
+  ]
+}

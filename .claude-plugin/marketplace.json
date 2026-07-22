@@ -29,6 +29,12 @@
       "name": "elastic-cloud",
       "source": "./plugins/cloud",
       "description": "Elastic Cloud skills — project setup, access management, network security, and Serverless project lifecycle"
+    },
+    {
+      "version": "0.1.0",
+      "name": "elastic-context-engine",
+      "source": "./plugins/context-engine",
+      "description": "Context Engine skills — connect Claude Code to the Elastic Context Engine by importing Claude Code traces into Elasticsearch (ES|QL querying of the ai_index is planned)"
     }
   ],
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",

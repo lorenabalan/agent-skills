@@ -23,6 +23,10 @@
       "name": "cloud-setup",
       "version": "0.1.0"
     },
+    "skills/context-engine/context-engine-import-traces": {
+      "name": "context-engine-import-traces",
+      "version": "0.1.0"
+    },
     "skills/elasticsearch/elasticsearch-audit": {
       "name": "elasticsearch-audit",
       "version": "0.1.0"
